@@ -331,6 +331,10 @@ section {
 
 /* projects */
 
+span {
+  color: var(--blue);
+}
+
 .section .section-header {
   margin-bottom: 2.5rem;  /* mb-10 */
   text-align: center;
@@ -379,7 +383,7 @@ section {
   display: flex;
   flex-wrap: wrap;          
   justify-content: center;   
-  gap: 2rem;                 
+  gap: 4rem;                 
   padding-top: 2rem;
   padding-bottom: 2rem;
   max-width: 1400px;         
