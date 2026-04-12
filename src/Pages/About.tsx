@@ -1,4 +1,4 @@
-import Image from "../assets/team.jpg";
+// import Image from "../assets/team.jpg";
 import JACTeam from "../assets/TeamPic.jpg";
 
 const About = () => {
